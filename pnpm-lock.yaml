@@ -357,8 +357,8 @@ importers:
         specifier: ^5.0.9
         version: 5.0.9
       pathe:
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^2.0.0
+        version: 2.0.0
       vite-hot-client:
         specifier: ^0.2.4
         version: 0.2.4(vite@6.0.1(@types/node@22.10.1)(jiti@2.4.2)(sass-embedded@1.81.0)(sass@1.80.3)(terser@5.26.0)(tsx@4.19.2)(yaml@2.5.0))
@@ -440,8 +440,8 @@ importers:
         specifier: ^2.0.1
         version: 2.0.1
       pathe:
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^2.0.0
+        version: 2.0.0
       socket.io:
         specifier: ^4.8.1
         version: 4.8.1
@@ -875,8 +875,8 @@ importers:
         specifier: ^0.2.1
         version: 0.2.1
       pathe:
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^2.0.0
+        version: 2.0.0
 
 packages:
 
@@ -7040,6 +7040,9 @@ packages:
 
   pathe@1.1.2:
     resolution: {integrity: sha512-whLdWMYL2TwI08hn8/ZqAbrVemu0LNaNNJZX73O6qaIdCTfXutsLhMkjdENX0qhsQ9uIimo4/aQOmXkoon2nDQ==}
+
+  pathe@2.0.0:
+    resolution: {integrity: sha512-G7n4uhtk9qJt2hlD+UFfsIGY854wpF+zs2bUbQ3CQEUTcn7v25LRsrmurOxTo4bJgjE4qkyshd9ldsEuY9M6xg==}
 
   pathval@2.0.0:
     resolution: {integrity: sha512-vE7JKRyES09KiunauX7nd2Q9/L7lhok4smP9RZTDeD4MVs72Dp2qNFVz39Nz5a0FVEW0BJR6C0DYrq6unoziZA==}
@@ -16508,6 +16511,8 @@ snapshots:
   path-type@4.0.0: {}
 
   pathe@1.1.2: {}
+
+  pathe@2.0.0: {}
 
   pathval@2.0.0: {}
 
